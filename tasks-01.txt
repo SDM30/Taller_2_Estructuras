@@ -1,0 +1,6 @@
+5
+1 images/Lenna.jpg images/Sepia.jpg sepia
+2 images/Lenna.jpg images/Negative.jpg negative
+3 images/Lenna.jpg images/Pixelate.jpg pixelate
+4 images/Lenna.jpg images/Blur.jpg blur
+5 images/Sepia.jpg images/SepiaNegative.jpg negative
