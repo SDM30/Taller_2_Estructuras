@@ -15,5 +15,6 @@ void BlurFilter::apply(Image& image) {
     // TODO #4: Implementar el filtro de desenfoque (BLUR).
 
     //-----------------------------------------------------------------------
-    image.setPixels(newPixels);
+    //Antes estaba newPixels 
+    image.setPixels(pixels);
 }
