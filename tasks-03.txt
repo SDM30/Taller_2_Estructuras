@@ -1,0 +1,6 @@
+5
+1 images/LennaNega.jpg images/LennaNegaNega.jpg negative
+2 images/MacawNega.jpg images/MacawNegaNega.jpg negative
+3 images/panachiNega.jpg images/panachiNegaNega.jpg negative
+4 images/transmilenioNega.jpg images/transmilenioNegaNega.jpg negative
+5 images/caracasNega.jpg images/caracasNegaNega.jpg negative
